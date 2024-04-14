@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carlos Villamil</h1>
+<h1 align="center">Hi 👋, I'm Carlos Andres Villamil</h1>
 <h3 align="center">I am a web developer, I like to program, I am self-taught, for now I have only participated in one project, using technologies such as html, css, javascript, node js, mongodb, typescript, next js, graphQL. In the future I want to focus on machine learning and deep learning, I have always been interested in artificial intelligence and it would be great one day to participate in the creation of one.</h3>
 
 - 💬 Ask me about **html, css, javascript y react js**
