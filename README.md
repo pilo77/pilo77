@@ -2,10 +2,12 @@
 
 ## About Me
 
-My name is Carlos Andres Villamil Yusunguaira, and I am a self-taught developer on the path to becoming a Systems Engineer. With a fervent passion for programming, especially in web development, I constantly seek to enhance my skills and explore new technologies.
+My name is Carlos Andres Villamil Yusunguaira, and I am a self-taught developer on the path to becoming a Systems Engineer. With a fervent passion for programming, especially in backend development with Java, I constantly seek to enhance my skills and explore new technologies. Currently, I am implementing JWT within Spring Boot applications alongside Spring Security to bolster authentication and security measures.
+
 ## Skills and Expertise
 
 - **Backend Development:** Specialized in API development using Spring Boot.
+- **Spring Security and JWT:** Implementing JWT for secure authentication within Spring Boot applications.
 - **Web Development:** Proficient in HTML, CSS, JavaScript, Angular, Vue, and Ionic.
 - **Databases:** Experienced in MongoDB, MySQL, and SQL Server.
 - **Additional Technologies:** Node.js, TypeScript.
